@@ -2,7 +2,7 @@
  * Created by Vicky on 6/28/2017.
  */
 function increment(selector) {
-        let container = $(selector);
+        let container = $(`${selector}`);
         let fragment = document.createDocumentFragment();
         let text = $('<textarea>');
         let incBtn = $('<button>Increment</button>');
@@ -16,8 +16,8 @@ function increment(selector) {
         incBtn.attr('id','incrementBtn');
 
         addBtn.addClass('btn');
-        incBtn.attr('id','addBtn');
-        
+        addBtn.attr('id','addBtn');
+
         list.addClass('results');
 
         $(incBtn).click(function () {

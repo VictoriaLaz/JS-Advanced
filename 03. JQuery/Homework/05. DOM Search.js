@@ -44,7 +44,7 @@ function domSearch(selector, value = false) {
     });
 
 
-    searchLi.keyup(function () {
+    searchLi.on("input", function () {
         let textToSearch = searchLi.val();
         $('.items-list .list-item').css('display', 'block');
         if(value) {

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12327936-078f-4daa-8e18-1dcf84fa1bc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01. Sort Array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02. Argument Info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03. Functional Sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04. Personal BMI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. VectorMath.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. Breakfast robot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07. Monkey Patcher.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,13 +30,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06. Breakfast robot.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="06. Breakfast robot.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06. Breakfast robot.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="218">
               <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Monkey Patcher.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07. Monkey Patcher.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="n#!!doc;n#solution#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -78,6 +85,7 @@
         <option value="$PROJECT_DIR$/04. Personal BMI.js" />
         <option value="$PROJECT_DIR$/05. VectorMath.js" />
         <option value="$PROJECT_DIR$/06. Breakfast robot.js" />
+        <option value="$PROJECT_DIR$/07. Monkey Patcher.js" />
       </list>
     </option>
   </component>
@@ -150,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.06. Breakfast robot.js">
+  <component name="RunManager" selected="Node.js.07. Monkey Patcher.js">
     <configuration default="false" name="02. Argument Info.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Argument Info.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -158,6 +166,9 @@
       <method />
     </configuration>
     <configuration default="false" name="06. Breakfast robot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Breakfast robot.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="07. Monkey Patcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07. Monkey Patcher.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -220,16 +231,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.02. Argument Info.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.03. Functional Sum.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.06. Breakfast robot.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.07. Monkey Patcher.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.06. Breakfast robot.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.03. Functional Sum.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.02. Argument Info.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.07. Monkey Patcher.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.06. Breakfast robot.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03. Functional Sum.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Argument Info.js" />
       </list>
     </recent_temporary>
   </component>
@@ -246,12 +259,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499071184010</updated>
-      <workItem from="1499071185198" duration="14861000" />
+      <workItem from="1499071185198" duration="18204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14861000" />
+    <option name="totallyTimeSpent" value="18204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -260,11 +273,11 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -282,7 +295,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/07. Monkey Patcher.js</url>
+          <line>5</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -374,6 +396,16 @@
           <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Monkey Patcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc;n#solution#0" expanded="false" />
           </folding>
         </state>
       </provider>

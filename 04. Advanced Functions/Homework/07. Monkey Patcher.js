@@ -8,7 +8,7 @@ function solution(input) {
     } else if(command ==='downvote'){
         this.downvotes++;
     } else {
-        report(this);
+        return report(this);
     }
     function report(obj) {
         let rating = '';
@@ -27,12 +27,12 @@ function solution(input) {
             rating = 'new';
         } else if(positiveVotes/totalVotes > 0.66){
             rating = 'hot';
-        } else if (balance > 0 &&(positiveVotes > 100 || negativeVotes > 100)){
-            rating = 'controversial'
+        } else if (balance >= 0 &&(positiveVotes > 100 || negativeVotes > 100)){
+            rating = 'controversial';
         } else if(balance < 0){
-            rating = 'unpopular'
+            rating = 'unpopular';
         } else {
-            rating = 'new'
+            rating = 'new';
         }
         return [reportedUpVotes, reportedDownVotes, balance, rating];
     }
@@ -46,4 +46,4 @@ let forumPost = {
 };
 
 solution.call(forumPost, 'upvote');
-console.log(solution.call(forumPost, 'score'));
+console.log(solution.call(forumPost, 'score'));;

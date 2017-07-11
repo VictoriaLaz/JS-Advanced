@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{LAB/node_modules}" />
+    <file url="PROJECT" libraries="{LAB/node_modules, chai-DefinitelyTyped, jQuery-2.0.0, jasmine-DefinitelyTyped, jquery-DefinitelyTyped, jsdom-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>

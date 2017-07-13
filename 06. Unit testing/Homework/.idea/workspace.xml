@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11422309-4f17-46cf-b133-3d4e7e10c361" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01. Request Validator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02. Odd or even/02. Odd or even.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02. Odd or even/02. Odd or even.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03. Character lookup/03. Character lookup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03. Character lookup/03. Character lookup.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04. Math enforcer/04. Math enforcer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04. Math enforcer/04. Math enforcer.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Shared object/05. Shared object.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Shared object/05. Shared object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Shared object/05. Shared object.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proba.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../LAB/~$. JS-Advanced-Unit-Testing-with-Mocha-Lab.docx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../LAB/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05. Shared object/05. Shared object.test.js" afterPath="$PROJECT_DIR$/05. Shared object/05. Shared object.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsdom/package.json" afterPath="$PROJECT_DIR$/node_modules/jsdom/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,10 +67,10 @@
       <file leaf-file-name="05. Shared object.test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05. Shared object/05. Shared object.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="220">
+              <caret line="98" column="31" lean-forward="false" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
               <folding>
-                <marker date="1499932117189" expanded="true" signature="222:288" ph="..." />
+                <marker date="1499934534496" expanded="true" signature="222:288" ph="..." />
               </folding>
             </state>
           </provider>
@@ -217,10 +208,16 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="javascript.nodejs.core.library.configured.version" value="7.10.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/05. Shared object" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\Vicky\AppData\Roaming\npm\node_modules\mocha" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SoftUni\JS Core\JS Advanced\Homework\06. Unit testing\Homework\05. Shared object" />
+      <recent name="C:\SoftUni\JS Core\JS Advanced\Homework\06. Unit testing\Homework" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -234,8 +231,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.SharedObject">
+  <component name="RunManager" selected="Mocha.shared object">
     <configuration default="false" name="01. Request Validator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Request Validator.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="shared object.change name" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/05. Shared object.test.js</test-file>
+      <test-names>
+        <name value="shared object" />
+        <name value="change name" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="shared object" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/05. Shared object/05. Shared object.test.js</test-file>
+      <test-names>
+        <name value="shared object" />
+      </test-names>
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -352,20 +380,38 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
-      <test-directory>$PROJECT_DIR$/05. Shared object</test-directory>
+      <test-directory>$PROJECT_DIR$</test-directory>
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="sharedobject" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$</test-directory>
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Mocha.IsOddOrEven" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.charLookup" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.mathEnforcer" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.SharedObject" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.01. Request Validator.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.sharedobject" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.01. Request Validator.js" />
+      <item index="6" class="java.lang.String" itemvalue="Mocha.shared object.change name" />
+      <item index="7" class="java.lang.String" itemvalue="Mocha.shared object" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.01. Request Validator.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.shared object" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.shared object.change name" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01. Request Validator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -385,44 +431,44 @@
       <workItem from="1499789945667" duration="704000" />
       <workItem from="1499790675149" duration="11608000" />
       <workItem from="1499929857237" duration="1773000" />
-      <workItem from="1499931896654" duration="401000" />
+      <workItem from="1499931896654" duration="2644000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SharedObject - 2017.07.13 at 10h 39m 05s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 14m 37s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 40m 10s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 14m 50s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 45m 18s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 15m 12s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 45m 49s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 20m 52s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 47m 40s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 24m 30s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 48m 12s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 26m 25s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 48m 38s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 26m 42s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 50m 05s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 26m 53s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 51m 05s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 28m 06s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObject - 2017.07.13 at 10h 51m 31s.xml">
-      <configuration name="SharedObject" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="shared_object - 2017.07.13 at 11h 28m 56s.xml">
+      <configuration name="shared object" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14486000" />
+    <option name="totallyTimeSpent" value="16729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -516,7 +562,7 @@
         <state relative-caret-position="255">
           <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <marker date="1499932117189" expanded="true" signature="222:288" ph="..." />
+            <marker date="1499934534496" expanded="true" signature="222:288" ph="..." />
           </folding>
         </state>
       </provider>
@@ -578,7 +624,7 @@
         <state relative-caret-position="255">
           <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding>
-            <marker date="1499932117189" expanded="true" signature="222:288" ph="..." />
+            <marker date="1499934534496" expanded="true" signature="222:288" ph="..." />
           </folding>
         </state>
       </provider>
@@ -654,14 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05. Shared object/05. Shared object.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05. Shared object/05. Shared object.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -678,12 +716,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/05. Shared object/05. Shared object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05. Shared object/05. Shared object.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="220">
+          <caret line="98" column="31" lean-forward="false" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
           <folding>
-            <marker date="1499932117189" expanded="true" signature="222:288" ph="..." />
+            <marker date="1499934534496" expanded="true" signature="222:288" ph="..." />
           </folding>
         </state>
       </provider>

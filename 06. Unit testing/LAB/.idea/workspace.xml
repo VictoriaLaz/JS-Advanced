@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb298cd1-189f-43f4-a7b0-622e44b6c22e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/01. Array extension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/02. Construction Crew.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/03. Car factory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/04. Extensible object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/05. String extension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/06. Sorted list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01. Sub Sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02. Playing cards.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03. Print deck of cards.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04. SumOfNumbers/04. SumOfNumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04. SumOfNumbers/04. SumOfNumbers.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Check for symmetry/05. CheckForSummetry.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Check for symmetry/05. CheckForSymnmetry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. RGB to Hex/06. RGB to Hex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. RGB to Hex/06. RGB to Hex.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07. AddSubstract/07. AddSubstract.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07. AddSubstract/07. AddSubstract.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-    </list>
+    <list default="true" id="eb298cd1-189f-43f4-a7b0-622e44b6c22e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -101,7 +78,7 @@
       <file leaf-file-name="07. AddSubstract.test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07. AddSubstract/07. AddSubstract.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="268">
               <caret line="37" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="3" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
@@ -422,7 +399,7 @@
       <workItem from="1499764513276" duration="312000" />
       <workItem from="1499764849768" duration="3133000" />
       <workItem from="1499768864406" duration="1040000" />
-      <workItem from="1499785099914" duration="4538000" />
+      <workItem from="1499785099914" duration="4839000" />
     </task>
     <servers />
   </component>
@@ -459,7 +436,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13058000" />
+    <option name="totallyTimeSpent" value="13359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -470,7 +447,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -804,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07. AddSubstract/07. AddSubstract.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="268">
           <caret line="37" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="3" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />

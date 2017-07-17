@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Builder</title>
+    <style>td,th { background:#DDD; padding:5px }</style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    function tableBuilder(selector) {
+        let wrapper = $(selector);
+        let table = $('<table></table>')
+        function htmlEscape(text) {
+            let map = { '"': '&quot;', '&': '&amp;',
+                "'": '&#39;', '<': '&lt;', '>': '&gt;' };
+            return (''+text).replace(/[\"&'<>]/g, ch => map[ch]);
+        }
+        return {
+            createTable: function (columnNames) {
+                let tr = $('<tr></tr>');
+                for (let column of columnNames) {
+                    tr.append($(`<th>${htmlEscape(column)}</th>`))
+                }
+                tr.append($('<th>Action</th>'))
+                table.append(tr);
+                wrapper.append(table);
+            },
+            fillData: function (dataRows) {
+                for (let row of dataRows) {
+                    let tr = $('<tr></tr>')
+                    for (let col of row) {
+                        tr.append(`<td>${htmlEscape(col)}</td>`)
+                    }
+                    
+                    tr.append($('<td><button>Delete</button></td>'));
+                    table.append(tr);
+                }
+                $('button').on('click', function () {
+                    $(this).parent().parent().remove();
+                })
+            },
+
+        }
+    }
+</script>
+<script>
+    $(function() {
+        let builder = tableBuilder("#main");
+        builder.createTable(['Name', 'Town']);
+        builder.fillData([
+            ['Maria', 'Sofia'],
+            ['Kiril', 'Varna'],
+            ['Ani <new>', 'Ruse'],
+        ]);
+    });
+</script>
+</body>
+</html>

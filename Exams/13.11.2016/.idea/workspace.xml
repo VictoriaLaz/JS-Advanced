@@ -2,40 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0165db8-7501-49b7-800b-705853b6a810" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/08. View model.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/08. View model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/01. Delete towns by name.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/02. Add delete in list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/02. Add delete in list.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/03. Training course.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/04. Table builder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07.11.2016/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01. AddRemove towns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03. MailBox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04. Cards.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/01. Move towns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/02. Add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/02. Add.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/03. Player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/04. List Builder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/04. List builder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../19.12.2016/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/14. JS-Advanced-Classes-and-Members-Exercises.docx" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/14. JS-Advanced-Classes-and-Members-Exercises.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../01. DOM/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../01. DOM/LAB/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../02. DOM Manipulations/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../02. DOM Manipulations/LAB/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../03. JQuery/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../03. JQuery/Homework/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../03. JQuery/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../03. JQuery/LAB/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../06. Unit testing/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../06. Unit testing/Homework/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/Homework.iml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/Homework.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02. AddSwapShift in list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02. AddSwapShift in list.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31.10.2016/02. Sorted list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31.10.2016/02. Sorted list.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31.10.2016/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../07.11.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../07.11.2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../19.12.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../19.12.2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../19.12.2016/02. Add.test.js" afterPath="$PROJECT_DIR$/../19.12.2016/02. Add.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../31.10.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../31.10.2016/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,46 +26,46 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="01. AddRemove towns.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01. AddRemove towns.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="02. AddSwapShift in list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02. AddSwapShift in list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. MailBox.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. MailBox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
-                <element signature="n#!!doc;n#MailBox#0" expanded="false" />
+                <element signature="n#!!doc;n#createList#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04. Cards.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04. Cards.html">
+      <file leaf-file-name="02. AddSwapShift in list.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02. AddSwapShift in list.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="1989">
+              <caret line="119" column="30" lean-forward="true" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
               <folding>
-                <marker date="1500278661969" expanded="true" signature="793:1100" ph="..." />
+                <element signature="e#0#41#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="solution.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_04. Cards _Авторско решение + Тестове.zip/solution.js">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_02. Add %2F Swap %2F Shift Left %2F Right in List_Авторско решение + Тестове.zip/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Math enforcer.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../06. Unit testing/Homework/04. Math enforcer/04. Math enforcer.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -99,8 +76,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="package_json" />
       </list>
     </option>
   </component>
@@ -114,6 +92,9 @@
         <option value="$PROJECT_DIR$/01. AddRemove towns.html" />
         <option value="$PROJECT_DIR$/03. MailBox.js" />
         <option value="$PROJECT_DIR$/04. Cards.html" />
+        <option value="$PROJECT_DIR$/02. AddSwapShift in list.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/02. AddSwapShift in list.test.js" />
       </list>
     </option>
   </component>
@@ -129,11 +110,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,6 +149,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -180,6 +162,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\Vicky\AppData\Roaming\npm\node_modules\mocha" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.04. Cards.html">
+  <component name="RunManager" selected="Mocha.list">
     <configuration default="false" name="03. MailBox.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. MailBox.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -238,6 +222,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -260,9 +250,23 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.03. MailBox.js" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.04. Cards.html" />
+    <configuration default="false" name="list" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$</test-directory>
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.list" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03. MailBox.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.04. Cards.html" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -285,31 +289,65 @@
       <option name="presentableId" value="Default" />
       <updated>1500216510531</updated>
       <workItem from="1500216511779" duration="4693000" />
+      <workItem from="1500453941205" duration="3164000" />
+      <workItem from="1500461914993" duration="133000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="list - 2017.07.19 at 12h 15m 38s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 16m 52s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 20m 36s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 21m 12s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 21m 45s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 22m 16s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 22m 36s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 23m 02s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 12h 23m 45s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2017.07.19 at 13h 58m 41s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4693000" />
+    <option name="totallyTimeSpent" value="7990000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32718122" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -324,19 +362,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01. AddRemove towns.js">
+    <entry file="file://$PROJECT_DIR$/02. AddSwapShift in list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc;n#createList#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_02. Add %2F Swap %2F Shift Left %2F Right in List_Авторско решение + Тестове.zip/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../06. Unit testing/Homework/04. Math enforcer/04. Math enforcer.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. AddSwapShift in list.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="126" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01. AddRemove towns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="391">
           <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -344,26 +409,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc;n#MailBox#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_04. Cards _Авторско решение + Тестове.zip/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04. Cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="578">
           <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. AddRemove towns.js" />
+    <entry file="file://$PROJECT_DIR$/01. AddRemove towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. MailBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_04. Cards _Авторско решение + Тестове.zip/solution.js" />
+    <entry file="file://$PROJECT_DIR$/04. Cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. AddSwapShift in list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
-            <marker date="1500278661969" expanded="true" signature="793:1100" ph="..." />
+            <element signature="n#!!doc;n#createList#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../06. Unit testing/Homework/03. Character lookup/03. Character lookup.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../06. Unit testing/Homework/03. Character lookup/03. Character lookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../06. Unit testing/Homework/04. Math enforcer/04. Math enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_02. Add %2F Swap %2F Shift Left %2F Right in List_Авторско решение + Тестове.zip/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../06. Unit testing/Homework/04. Math enforcer/04. Math enforcer.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. AddSwapShift in list.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="119" column="30" lean-forward="true" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>

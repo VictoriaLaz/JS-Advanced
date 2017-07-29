@@ -1,0 +1,7 @@
+{
+  "name": "EXAM",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "^4.1.0"
+  }
+}

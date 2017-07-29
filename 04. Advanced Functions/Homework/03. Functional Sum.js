@@ -10,4 +10,4 @@ let result = (function result(){
     }
 })();
 
-console.log(add(1)(6)(-3).toString());
+console.log(result(1)(6)(-3).toString());

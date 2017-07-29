@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2064311-f880-4b04-bfa0-7be92faa633d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/08. View model.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/08. View model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Exams/19.12.2016/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Exams/19.12.2016/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Exams/19.12.2016/01. Move towns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../01. DOM/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../01. DOM/LAB/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../02. DOM Manipulations/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../02. DOM Manipulations/LAB/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../04. Advanced Functions/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../04. Advanced Functions/Homework/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../04. Advanced Functions/Homework/03. Functional Sum.js" afterPath="$PROJECT_DIR$/../../04. Advanced Functions/Homework/03. Functional Sum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../05. Object Composition/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../05. Object Composition/Homework/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../06. Unit testing/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../06. Unit testing/Homework/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/Homework.iml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/Homework.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../06. Unit testing/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../06. Unit testing/LAB/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../07. Classes/Homework/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../07. Classes/LAB/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../07. Classes/LAB/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Exams/07.11.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Exams/07.11.2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Exams/13.11.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Exams/13.11.2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Exams/19.12.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Exams/19.12.2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Exams/31.10.2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Exams/31.10.2016/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/02. Search in list.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc;n#search#0" expanded="false" />
               </folding>
@@ -67,8 +65,8 @@
       <file leaf-file-name="03. InitializeTable.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03. InitializeTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="50" />
               <folding>
                 <element signature="n#!!doc;n#initializeTable#0" expanded="false" />
               </folding>
@@ -138,10 +136,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -161,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,6 +172,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +182,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../EXAM" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,17 +278,18 @@
       <workItem from="1498645703568" duration="5057000" />
       <workItem from="1500133916628" duration="109000" />
       <workItem from="1500134213812" duration="564000" />
+      <workItem from="1500827744366" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9558000" />
+    <option name="totallyTimeSpent" value="9600000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -321,6 +318,64 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01. Extract text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#extractText#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Search in list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#search#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Countries Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="58" lean-forward="true" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Link Buttons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#attachEvents#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Selectable towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#attachEvents#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. InitializeTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc;n#initializeTable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01. Extract text.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -477,22 +532,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. Search in list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#search#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01. Extract text.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc;n#extractText#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Search in list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#search#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -507,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03. InitializeTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="50" />
           <folding>
             <element signature="n#!!doc;n#initializeTable#0" expanded="false" />
           </folding>

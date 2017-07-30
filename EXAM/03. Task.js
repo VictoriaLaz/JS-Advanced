@@ -17,7 +17,7 @@ class Task{
         if(date < Date.now()){
             throw new Error('Date expired')
         }
-        this.deadline = date;
+        this._deadline = date;
     }
     get status(){
         return this._status;
